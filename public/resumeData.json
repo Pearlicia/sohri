@@ -149,20 +149,20 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Pearlicia-Clothing",
-        "category": "An Ecommerce website for cloths",
+        "title": "Scholarship for Students",
+        "category": "Provide scholarship to students",
         "image": "pearlicia-clothing.png",
         "url": "https://pearlicia-clothing.vercel.app/"
       },
       {
-        "title": "MyReads",
-        "category": "A book reading app",
+        "title": "Free Surgery",
+        "category": "Conducted free surgeries for patients",
         "image": "myreads.png",
         "url": "https://myreads-ashen.vercel.app/"
       },
       {
-        "title": "Udaconnect",
-        "category": "Refactored an old application into a microservice architecture using message passing techniques",
+        "title": "Girl Child Education",
+        "category": "Making sure the girl child education is compulsory",
         "image": "udaconnect.png",
         "url": "https://github.com/Pearlicia/udaconnect"
       },
