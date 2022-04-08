@@ -1,4 +1,4 @@
-An NGO site called SORHI
+An NGO website called SORHI I.e Salmon Opukeme Rural Initiative 
 
 # Getting Started with Create React App
 
