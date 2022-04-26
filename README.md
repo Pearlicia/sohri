@@ -1,4 +1,6 @@
-An NGO website called SORHI I.e Salmon Opukeme Rural Initiative 
+An NGO website called SORHI I.e Salmon Opukeme Rural Initiative
+Free medical outreach, girl child education etc. 
+
 
 # Getting Started with Create React App
 
